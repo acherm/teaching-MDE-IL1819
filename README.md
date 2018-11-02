@@ -13,7 +13,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 ## Agenda 
 
 * domain-specific languages (DSL) -- DSLs.pdf
-* external DSLs and Xtext -- DSLAndXtext.pdf
+* external DSLs and Xtext -- DSLXtext.pdf
 * metamodeling and EMF -- ModelManagementXtend1.pdf 
 * model transformation-- ModelManagementXtend1.pdf 
 * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
