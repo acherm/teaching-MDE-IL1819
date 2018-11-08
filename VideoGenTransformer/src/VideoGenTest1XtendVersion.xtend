@@ -1,8 +1,6 @@
 import org.junit.Test
 import org.eclipse.emf.common.util.URI
 
-import fr.istic.VideoGeneratorModel;
-
 import static org.junit.Assert.*
 
 class VideoGenTest1XtendVersion {

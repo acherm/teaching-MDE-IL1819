@@ -2,7 +2,8 @@ import static org.junit.Assert.*;
 
 import org.eclipse.emf.common.util.URI;
 import org.junit.Test;
-import org.xtext.example.mydsl.videoGen.VideoGeneratorModel;
+
+import fr.istic.videoGen.VideoGeneratorModel;
 
 public class VideoGenTest1 {
 	

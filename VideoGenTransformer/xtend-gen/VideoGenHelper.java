@@ -1,3 +1,5 @@
+import fr.istic.VideoGenStandaloneSetup;
+import fr.istic.videoGen.VideoGeneratorModel;
 import java.util.HashMap;
 import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.common.util.URI;
@@ -9,13 +11,19 @@ import org.eclipse.xtext.xbase.lib.Exceptions;
 @SuppressWarnings("all")
 public class VideoGenHelper {
   public VideoGeneratorModel loadVideoGenerator(final URI uri) {
-    throw new Error("Unresolved compilation problems:"
-      + "\nVideoGeneratorModel cannot be resolved to a type."
-      + "\nVideoGenStandaloneSetup cannot be resolved to a type."
-      + "\ndoSetup cannot be resolved");
+    VideoGeneratorModel _xblockexpression = null;
+    {
+      VideoGenStandaloneSetup.doSetup();
+      ResourceSetImpl _resourceSetImpl = new ResourceSetImpl();
+      Resource res = _resourceSetImpl.getResource(uri, true);
+      EList<EObject> _contents = res.getContents();
+      EObject _get = _contents.get(0);
+      _xblockexpression = ((VideoGeneratorModel) _get);
+    }
+    return _xblockexpression;
   }
   
-  public void saveVideoGenerator(final URI uri, final /* VideoGeneratorModel */Object videoGen) {
+  public void saveVideoGenerator(final URI uri, final VideoGeneratorModel videoGen) {
     try {
       ResourceSetImpl _resourceSetImpl = new ResourceSetImpl();
       Resource rs = _resourceSetImpl.createResource(uri);

@@ -1,12 +1,20 @@
+import fr.istic.videoGen.VideoGenInformation;
+import fr.istic.videoGen.VideoGeneratorModel;
+import org.eclipse.emf.common.util.URI;
+import org.eclipse.xtext.xbase.lib.InputOutput;
+import org.junit.Assert;
 import org.junit.Test;
 
 @SuppressWarnings("all")
 public class VideoGenTest1XtendVersion {
   @Test
   public void testLoadModel() {
-    throw new Error("Unresolved compilation problems:"
-      + "\nThe method loadVideoGenerator(URI) from the type VideoGenHelper refers to the missing type VideoGeneratorModel"
-      + "\ninformation cannot be resolved"
-      + "\nauthorName cannot be resolved");
+    VideoGenHelper _videoGenHelper = new VideoGenHelper();
+    URI _createURI = URI.createURI("example1.videogen");
+    final VideoGeneratorModel videoGen = _videoGenHelper.loadVideoGenerator(_createURI);
+    Assert.assertNotNull(videoGen);
+    VideoGenInformation _information = videoGen.getInformation();
+    String _authorName = _information.getAuthorName();
+    InputOutput.<String>println(_authorName);
   }
 }
