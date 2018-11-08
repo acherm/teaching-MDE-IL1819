@@ -36,8 +36,8 @@ We illustrate the course with a running project, VideoGen, a configurable genera
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1GgyLtAui1RzeacCBo_jSVAgAMYG0VsZobdiR6iaSOv0/edit?usp=sharing
   * TP3: Model transformation, data analysis 
  https://docs.google.com/document/d/1pPelclSCb7AWTqpRacObR7jep9MzjCLQcjHh-ftjnVs/edit?usp=sharing
-  * TP4: test, refactoring, and continuing https://docs.google.com/document/d/1iGbMMBfPwhAcMeMvsGQ0Lf0atHzuaWNUzEjEVuQaijs/edit?usp=sharing
-  * TP5/TP6/projet: TP* (putting all together) https://docs.google.com/document/d/1tF_PcIKPEkC069ZDIdtC6Hb02CaT9tEh1ETXCN42s0I/edit?usp=sharing
+  * TP4: test, refactoring, and continuing https://docs.google.com/document/d/1Ll3AAMWFzNWlgwxwHmcmOmeNO1Y0z_46PxJStDGeIXI/edit?usp=sharing
+  * TP5/TP6/projet: TP* (putting all together) https://docs.google.com/document/d/1_PBrBHf9irX9g8LcRIlRNAVC08lXCZNp3w8dWrpFIPg/edit?usp=sharing
 
 
 ## Exercices/Homework 
