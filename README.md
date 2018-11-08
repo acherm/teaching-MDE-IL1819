@@ -33,7 +33,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
    * TD2: cf TD2-prepaExam.pdf 
 * 6 TPs
   * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1iOYV0QQhjJzDfKvItOrmvHrI53ICHH-oCk_kzz9Vty4/edit?usp=sharing
-  * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/14Ks3DwE3IonAdDY3x_jaCEkXwrfOwM2VhWwLux0D_8Q/edit?usp=sharing
+  * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1GgyLtAui1RzeacCBo_jSVAgAMYG0VsZobdiR6iaSOv0/edit?usp=sharing
   * TP3: Model transformation, data analysis 
   https://docs.google.com/document/d/1OETjPKA7_bOuGKKt19Wc_fN4l7MWM0NUm8ra2N72oNM/edit?usp=sharing
   * TP4: test, refactoring, and continuing https://docs.google.com/document/d/1iGbMMBfPwhAcMeMvsGQ0Lf0atHzuaWNUzEjEVuQaijs/edit?usp=sharing
