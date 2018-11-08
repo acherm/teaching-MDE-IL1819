@@ -29,7 +29,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 ## Lab sessions 
 
 * 2 TDs 
-   * TD1: https://docs.google.com/document/d/12WgEgLx8gfokdLC2iNmQpB3lIMN9lIRzwZlodgAil3w/edit?usp=sharing
+   * TD1: https://docs.google.com/document/d/1y9beZJ1G7KmpnN8fcxWyGYo3vZJ3GimK0jXLs2CKwbA/edit?usp=sharing
    * TD2: cf TD2-prepaExam.pdf 
 * 6 TPs
   * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1CX2wWiRCxi2qcb8pvMG4T8G_fGaWaKnKnYDDLXtEnC4/edit?usp=sharing
