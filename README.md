@@ -19,7 +19,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
 * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
 * variability modeling -- SPLVariability-light1718.pdf 
-* software product lines and configuration -- SPLVariability-light1718.pdf 
+* software product lines and configuration -- SPLVariability-light.pdf 
 
 ## Evaluation 
 
