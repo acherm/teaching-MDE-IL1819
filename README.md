@@ -30,7 +30,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
 * 2 TDs 
    * TD1: https://docs.google.com/document/d/1y9beZJ1G7KmpnN8fcxWyGYo3vZJ3GimK0jXLs2CKwbA/edit?usp=sharing
-   * TD2: cf TD2-prepaExam.pdf 
+   * TD2: [Partiel 2016](https://github.com/acherm/teaching-MDE-MIAGE1718/blob/master/ExamIDM16.pdf) 
 * 6 TPs
   * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1iOYV0QQhjJzDfKvItOrmvHrI53ICHH-oCk_kzz9Vty4/edit?usp=sharing
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1GgyLtAui1RzeacCBo_jSVAgAMYG0VsZobdiR6iaSOv0/edit?usp=sharing
